@@ -7,5 +7,5 @@ x <- c(1,2,3,4,5);
 # take a mean
 xm <- mean(x);
 
-# make some more changes
+# take a standard deviation
 xsd <- sd(x);
